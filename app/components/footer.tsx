@@ -1,5 +1,4 @@
 import Link from 'next/link'
-import { Instagram, Twitter, Share2 } from 'lucide-react'
 
 export function Footer() {
   return (
@@ -11,37 +10,37 @@ export function Footer() {
         
         <div className="flex gap-6 text-sm">
           <Link href="/privacy" className="hover:text-gigzpink transition">
-            Privacy Policy
+            Privacy
           </Link>
           <Link href="/terms" className="hover:text-gigzpink transition">
-            Terms & Conditions
+            Terms
           </Link>
         </div>
 
-        <div className="flex gap-4">
+        <div className="flex gap-4 text-sm">
           <a 
-            href="https://twitter.com/gigz" 
+            href="https://x.com/gigz_app" 
             target="_blank" 
             rel="noopener noreferrer"
             className="hover:text-gigzpink transition"
           >
-            <Twitter size={20} />
+            X
           </a>
           <a 
-            href="https://instagram.com/gigz" 
+            href="https://www.instagram.com/gigz_app/" 
             target="_blank" 
             rel="noopener noreferrer"
             className="hover:text-gigzpink transition"
           >
-            <Instagram size={20} />
+            Instagram
           </a>
           <a 
-            href="https://threads.net/gigz" 
+            href="https://www.threads.net/@gigz_app" 
             target="_blank" 
             rel="noopener noreferrer"
             className="hover:text-gigzpink transition"
           >
-            <Share2 size={20} />
+            Threads
           </a>
         </div>
       </div>

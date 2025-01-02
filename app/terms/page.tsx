@@ -6,7 +6,7 @@ export default function TermsAndConditions() {
       
       <div className="prose prose-gray dark:prose-invert max-w-none">
         <p className="lead">
-          Welcome to Gigz! We've created an app that allows you to track and share your concert experiences. If you have any questions about these terms, you can contact us at: support@gigz.app.
+          Welcome to Gigz! We&apos;ve created an app that allows you to track and share your concert experiences. If you have any questions about these terms, you can contact us at: support@gigz.app.
         </p>
 
         <h2>Important Notice Regarding Arbitration</h2>
@@ -39,7 +39,7 @@ export default function TermsAndConditions() {
         <p>Payment for premium features is processed through Apple, and you agree to their terms of service when making payments.</p>
 
         <h2>User Content</h2>
-        <p>"User Content" means any content that users provide through the Services, including:</p>
+        <p>&quot;User Content&quot; means any content that users provide through the Services, including:</p>
         <ul>
           <li>Concert entries</li>
           <li>Photos</li>
@@ -56,11 +56,11 @@ export default function TermsAndConditions() {
           <li>Use the Services for any illegal purpose</li>
           <li>Impersonate others</li>
           <li>Upload viruses or malicious code</li>
-          <li>Attempt to access other users' accounts</li>
+          <li>Attempt to access other users&apos; accounts</li>
           <li>Scrape or copy concert data for commercial purposes</li>
           <li>Create multiple accounts</li>
           <li>Share account access</li>
-          <li>Upload content that infringes others' rights</li>
+          <li>Upload content that infringes others&apos; rights</li>
         </ul>
 
         <h2>Content Moderation</h2>
@@ -85,7 +85,7 @@ export default function TermsAndConditions() {
 
         <h2>Disclaimers</h2>
         <p>
-          THE SERVICES ARE PROVIDED "AS IS" WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES. WE DO NOT GUARANTEE THE ACCURACY OF CONCERT INFORMATION, SET-LISTS, OR OTHER DATA.
+          THE SERVICES ARE PROVIDED &quot;AS IS&quot; WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES. WE DO NOT GUARANTEE THE ACCURACY OF CONCERT INFORMATION, SET-LISTS, OR OTHER DATA.
         </p>
 
         <h2>Limitation of Liability</h2>

@@ -13,7 +13,7 @@ export default function Home() {
           <div className="flex flex-col md:flex-row items-center justify-between">
             <div className="md:w-1/2 mb-10 md:mb-0 text-center md:text-left">
               <h1 className="text-4xl md:text-6xl font-bold mb-6">Keep track of every concert you attend with Gigz</h1>
-              <p className="text-xl md:text-2xl mb-8">Your personal live music diary. Whether you're a casual concert-goer or a dedicated live music enthusiast, Gigz helps you preserve and celebrate your live music experiences.</p>
+              <p className="text-xl md:text-2xl mb-8">Your personal live music diary. Whether you&apos;re a casual concert-goer or a dedicated live music enthusiast, Gigz helps you preserve and celebrate your live music experiences.</p>
               <Button size="lg" asChild className="text-lg px-8 py-4">
                 <a href={getAppStoreLink()}>Download on the App Store</a>
               </Button>

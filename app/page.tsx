@@ -12,8 +12,8 @@ export default function Home() {
         <div className="container mx-auto px-4 py-32">
           <div className="flex flex-col md:flex-row items-center justify-between">
             <div className="md:w-1/2 mb-10 md:mb-0 text-center md:text-left">
-              <h1 className="text-4xl md:text-6xl font-bold mb-6 font-montserrat tracking-normal md:tracking-tighter antialiased leading-none md:leading-3">Keep track of every concert you attend with Gigz</h1>
-              <p className="text-xl md:text-2xl mb-8 font-sans font-normal leading-normal md:leading-3">Your personal live music diary. Whether you&apos;re a casual concert-goer or a dedicated live music enthusiast, Gigz helps you preserve and celebrate your live music experiences.</p>
+              <h1 className="text-4xl md:text-6xl font-bold mb-6 font-montserrat tracking-normal md:tracking-tighter antialiased leading-normal">Keep track of every concert you attend with Gigz</h1>
+              <p className="text-xl md:text-2xl mb-8 font-sans font-normal leading-normal">Your personal live music diary. Whether you&apos;re a casual concert-goer or a dedicated live music enthusiast, Gigz helps you preserve and celebrate your live music experiences.</p>
               <Button size="lg" asChild className="text-lg px-8 py-4 font-sans">
                 <a href={getAppStoreLink()}>Download on the App Store</a>
               </Button>

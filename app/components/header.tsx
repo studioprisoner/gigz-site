@@ -19,15 +19,6 @@ export function Header() {
               className="h-full w-auto"
             />
           </Link>
-          <nav className="hidden md:flex">
-            <Button variant="outline" asChild>
-              <a href={getAppStoreLink()}>Download</a>
-            </Button>
-          </nav>
-          <Button variant="ghost" size="icon" className="md:hidden">
-            <Menu className="h-6 w-6" />
-            <span className="sr-only">Open menu</span>
-          </Button>
         </div>
       </div>
     </header>

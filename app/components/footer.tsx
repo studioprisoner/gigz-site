@@ -15,6 +15,9 @@ export function Footer() {
           <Link href="/terms" className="hover:text-gigzpink transition">
             Terms
           </Link>
+          <Link href="/security" className="hover:text-gigzpink transition">
+            Security
+          </Link>
         </div>
 
         <div className="flex gap-4 text-sm">

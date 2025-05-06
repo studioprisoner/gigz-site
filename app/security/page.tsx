@@ -46,7 +46,7 @@ export default function SecurityPage() {
         <h2>Secure User Practices</h2>
         <p>Help us keep your account secure by following these best practices:</p>
         <ol>
-          <li>Keep your phone number up to date in your account settings</li>
+          <li>Keep your email address up to date in your account settings</li>
           <li>Never share OTP codes with anyone, including our support team</li>
           <li>Verify OTP requests are tied to actions you initiated</li>
           <li>Be alert to phishing attempts claiming to be from our company</li>

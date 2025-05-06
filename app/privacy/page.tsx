@@ -13,7 +13,7 @@ export default function PrivacyPolicy() {
         
         <h3>Information You Provide Directly</h3>
         <ul>
-          <li><strong>Account Information</strong>: When you sign up, we collect your phone number for authentication and your chosen username.</li>
+          <li><strong>Account Information</strong>: When you sign up, we collect your email address for authentication and your chosen username. You will be emailed a one-time passcode (OTP) to confirm your account.</li>
           <li><strong>Profile Information</strong>: You may optionally provide additional information such as your full name, city, and profile picture.</li>
           <li><strong>Concert Information</strong>: Information about concerts you&apos;ve attended, including artist names, venues, dates, notes, and whether they were part of a festival.</li>
           <li><strong>Photos</strong>: If you&apos;re a premium user, photos you upload related to concerts you&apos;ve attended.</li>
